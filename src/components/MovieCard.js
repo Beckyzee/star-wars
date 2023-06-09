@@ -1,6 +1,5 @@
 import React from 'react'
 import '../styles/MovieCard.css'
-import MovieDetails from '../components/MovieDetails';
 import { Link } from 'react-router-dom'
 
 const MovieCard = ({ title, releaseDate, openingCrawl }) => {

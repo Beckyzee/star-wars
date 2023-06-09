@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import MovieCard from './MovieCard';
-import Home from './Home';
 
 const FilmList = () => {
 
